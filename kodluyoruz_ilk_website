@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--ad soyad başlığı-->
+    <h1 style="color: deeppink;">GÖKÇE ŞİMŞEK</h1>
+
+    <!--hakkımda özet-->
+    <h2 style="color: blueviolet;">Hakkımda:</h2>
+    <p> Merhaba! ben gökçe. hatayda yaşıyorum. en büyük tutkum resim çizmek. şimdilik geleneksel çizimle uğraşıyorum. ancak dijitale de geçmeyi düşünüyorum çünkü bölümüm gereği yazılımla uğraşıyorum. tutkum gereği yazılımın estetik gerektiren bölümünde bulunmayı da hedefliyorum. bunun için adım olarak front end web geliştirme bootcampini ilk kez kodluyoruz ekibi sayesinde alıyorum!</p>
+    <hr>
+    <h2>sevdiğim film ve diziler</h2>
+    <ul>
+        <li>
+            <li>fleabag</li>
+            <li>attack of titan</li>
+            <li>howls mowing castle</li>
+        </li>
+    </ul>
+
+
+
+
+
+</body>
+</html>
